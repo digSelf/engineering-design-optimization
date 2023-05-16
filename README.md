@@ -1,2 +1,5 @@
 # engineering-design-optimization
-Stanford AA222/CS361
+
+## supplementary materials
+
+[Learn Julia in Y minutes](http://learnxinyminutes.com/docs/julia/)
