@@ -2,4 +2,4 @@
 
 ## supplementary materials
 
-[Learn Julia in Y minutes](http://learnxinyminutes.com/docs/julia/)
+* [Learn Julia in Y minutes](http://learnxinyminutes.com/docs/julia/)
